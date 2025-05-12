@@ -22,12 +22,12 @@ Every student will clone a  repo in git. You should know how to
 
 
 Example programing question
-1. Write a class Test with a static method to sort an array of integers. Write a test function for it.
-Ans. Look at TestClassQ1. Please note how class and corresponding test are written. Students are expected to write the code as well as code to test it.
+1. Write a class Test with a static method to sort an array of integers. Write a test function for it. <br>
+Ans. Look at TestClassQ1. Please note how class and corresponding tests are written. Students are expected to write the code as well as code to test it.
 To check the ans please compile and run the test. 
 
 Example Sql Question
-1. Create a Table with name `student` with two columns `id and name` in DuckDB. Insert 5 values and write the query to retrieve the values sorted by ids
+1. Create a Table with name `student` with two columns `id and name` in DuckDB. Insert 5 values and write the query to retrieve the values sorted by ids<br>
 Ans. Look at the class TestQueryQ1
 
 Submission without successful compilation and run will not be accepted
